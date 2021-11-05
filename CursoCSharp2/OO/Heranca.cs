@@ -58,11 +58,14 @@ namespace CursoCSharp.OO
             return AlterarVelocidade(15);
         }
 
+
         // Oculta o método da classe Pai
         public new int Frear()
         {
             return AlterarVelocidade(-15);
         }
+
+        // Oculta o método da classe
     }
     
     class Heranca
