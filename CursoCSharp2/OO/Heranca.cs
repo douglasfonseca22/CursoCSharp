@@ -63,6 +63,8 @@ namespace CursoCSharp.OO
         {
             return AlterarVelocidade(-15);
         }
+
+        // Oculta o método da classe
     }
     
     class Heranca

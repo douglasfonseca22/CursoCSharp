@@ -35,6 +35,12 @@ namespace CursoCSharp.OO
 
         }
     }
+
+using System.Collections.Generic;
+using System.Text;
+
+namespace CursoCSharp.OO
+{
     class Encapsulamento
     {
         public static void Executar()
@@ -47,6 +53,9 @@ namespace CursoCSharp.OO
 
             new FilhoNaoReconhecido().MeusAcessos();
             new AmigoDistante().MeusAcessos();
+
+
+
         }
     }
 }

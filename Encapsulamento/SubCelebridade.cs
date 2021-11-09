@@ -5,6 +5,8 @@ using System.Text;
 namespace Encapsulamento
 {
     public class SubCelebridade
+
+    class SubCelebridade
     {
         //Todos
         public string InfoPublica = "Tenho um instagram!";

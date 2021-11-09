@@ -4,7 +4,9 @@ using System.Text;
 
 namespace Encapsulamento
 {
+
     public class AmigoProximo
+
     {
         public readonly SubCelebridade amiga = new SubCelebridade();
 
